@@ -1,9 +1,9 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BottomBar", "BottomBar\BottomBar.csproj", "{A8445D77-2A3A-4D9F-8F79-ABCE83F8DD4D}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BottomBarSample", "..\BottomBarSample\BottomBarSample.csproj", "{DC24F556-0104-4F30-A4D4-4EA0A0D5D39C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BottomNavigationBar", "BottomNavigationBar\BottomNavigationBar.csproj", "{1F22C96C-C877-4066-85AC-D1D41C18CEE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,13 +11,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A8445D77-2A3A-4D9F-8F79-ABCE83F8DD4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A8445D77-2A3A-4D9F-8F79-ABCE83F8DD4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A8445D77-2A3A-4D9F-8F79-ABCE83F8DD4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A8445D77-2A3A-4D9F-8F79-ABCE83F8DD4D}.Release|Any CPU.Build.0 = Release|Any CPU
 		{DC24F556-0104-4F30-A4D4-4EA0A0D5D39C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{DC24F556-0104-4F30-A4D4-4EA0A0D5D39C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC24F556-0104-4F30-A4D4-4EA0A0D5D39C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC24F556-0104-4F30-A4D4-4EA0A0D5D39C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F22C96C-C877-4066-85AC-D1D41C18CEE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F22C96C-C877-4066-85AC-D1D41C18CEE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F22C96C-C877-4066-85AC-D1D41C18CEE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F22C96C-C877-4066-85AC-D1D41C18CEE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

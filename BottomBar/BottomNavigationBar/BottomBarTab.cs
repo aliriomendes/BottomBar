@@ -1,5 +1,5 @@
 ﻿using System;
-namespace BottomBar
+namespace BottomNavigationBar
 {
     public class BottomBarTab
     {

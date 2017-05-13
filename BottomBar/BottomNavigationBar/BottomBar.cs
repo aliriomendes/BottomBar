@@ -1,4 +1,4 @@
-﻿namespace BottomBar
+﻿namespace BottomNavigationBar
 {
     public class BottomBar
     {
